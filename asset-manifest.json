@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/facebook/static/css/main.6d83b4e5.css",
+    "main.js": "/facebook/static/js/main.520fa692.js",
+    "static/media/landscape1.jpg": "/facebook/static/media/landscape1.dac3f6bf0ebb3aff25b6.jpg",
+    "static/media/landscape3.jpg": "/facebook/static/media/landscape3.2c01f387f0c7329a66e7.jpg",
+    "static/media/image1.png": "/facebook/static/media/image1.7752efe9d589a9c18f4f.png",
+    "static/media/image4.png": "/facebook/static/media/image4.0260483f1ca316b6c2f6.png",
+    "static/media/image3.png": "/facebook/static/media/image3.f21d34eddff3351b5c16.png",
+    "static/media/sea.jpg": "/facebook/static/media/sea.e85ac65bbb94695a53cf.jpg",
+    "static/media/image2.png": "/facebook/static/media/image2.48b2d8e8cb8df324540a.png",
+    "static/media/party-image.jpg": "/facebook/static/media/party-image.f75801f5917c66205700.jpg",
+    "static/media/friends-meeting.jpg": "/facebook/static/media/friends-meeting.130c9803e84c1589da06.jpg",
+    "static/media/museum.jpg": "/facebook/static/media/museum.4cb8d3025dc2a5d917ce.jpg",
+    "static/media/Avatar-1.svg": "/facebook/static/media/Avatar-1.ab915fe7ffc7ed9dd328e551327ef409.svg",
+    "static/media/Avatar-4.svg": "/facebook/static/media/Avatar-4.9feeed048057a3dc0db90200cde98e5f.svg",
+    "static/media/Avatar-3.svg": "/facebook/static/media/Avatar-3.7cfde22eada6dffc8252211d7c0127f0.svg",
+    "static/media/Avatar-2.svg": "/facebook/static/media/Avatar-2.1dafbba98d59d04fb67b515eb07f12b4.svg",
+    "static/media/Avatar-6.svg": "/facebook/static/media/Avatar-6.4a131995695cb298ba828d47b8c60fa6.svg",
+    "static/media/Avatar-5.svg": "/facebook/static/media/Avatar-5.a639b136238561cb2f2cfe3f8aa04382.svg",
+    "static/media/dots.svg": "/facebook/static/media/dots.6bc422ea6c43a2caec4aa815d7b1b98b.svg",
+    "index.html": "/facebook/index.html",
+    "main.6d83b4e5.css.map": "/facebook/static/css/main.6d83b4e5.css.map",
+    "main.520fa692.js.map": "/facebook/static/js/main.520fa692.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d83b4e5.css",
+    "static/js/main.520fa692.js"
+  ]
+}
