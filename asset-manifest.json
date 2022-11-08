@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/facebook/static/css/main.0ad51746.css",
-    "main.js": "/facebook/static/js/main.6d806524.js",
+    "main.css": "/facebook/static/css/main.7c21baf1.css",
+    "main.js": "/facebook/static/js/main.416e865d.js",
     "static/media/landscape1.jpg": "/facebook/static/media/landscape1.dac3f6bf0ebb3aff25b6.jpg",
     "static/media/landscape3.jpg": "/facebook/static/media/landscape3.2c01f387f0c7329a66e7.jpg",
     "static/media/image1.png": "/facebook/static/media/image1.7752efe9d589a9c18f4f.png",
@@ -10,7 +10,10 @@
     "static/media/sea.jpg": "/facebook/static/media/sea.e85ac65bbb94695a53cf.jpg",
     "static/media/image2.png": "/facebook/static/media/image2.48b2d8e8cb8df324540a.png",
     "static/media/party-image.jpg": "/facebook/static/media/party-image.f75801f5917c66205700.jpg",
+    "static/media/landscape4.jpg": "/facebook/static/media/landscape4.95f872808e2863247364.jpg",
     "static/media/friends-meeting.jpg": "/facebook/static/media/friends-meeting.130c9803e84c1589da06.jpg",
+    "static/media/landscape3-placeholder.jpg": "/facebook/static/media/landscape3-placeholder.b4ce77bb8c975f3e6c7e.jpg",
+    "static/media/landscape6.jpg": "/facebook/static/media/landscape6.182aa4ab1b32923541ad.jpg",
     "static/media/museum.jpg": "/facebook/static/media/museum.4cb8d3025dc2a5d917ce.jpg",
     "static/media/Avatar-1.svg": "/facebook/static/media/Avatar-1.ab915fe7ffc7ed9dd328e551327ef409.svg",
     "static/media/Avatar-4.svg": "/facebook/static/media/Avatar-4.9feeed048057a3dc0db90200cde98e5f.svg",
@@ -20,11 +23,11 @@
     "static/media/Avatar-5.svg": "/facebook/static/media/Avatar-5.a639b136238561cb2f2cfe3f8aa04382.svg",
     "static/media/dots.svg": "/facebook/static/media/dots.6bc422ea6c43a2caec4aa815d7b1b98b.svg",
     "index.html": "/facebook/index.html",
-    "main.0ad51746.css.map": "/facebook/static/css/main.0ad51746.css.map",
-    "main.6d806524.js.map": "/facebook/static/js/main.6d806524.js.map"
+    "main.7c21baf1.css.map": "/facebook/static/css/main.7c21baf1.css.map",
+    "main.416e865d.js.map": "/facebook/static/js/main.416e865d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ad51746.css",
-    "static/js/main.6d806524.js"
+    "static/css/main.7c21baf1.css",
+    "static/js/main.416e865d.js"
   ]
 }
