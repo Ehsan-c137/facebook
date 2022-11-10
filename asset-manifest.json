@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/facebook/static/css/main.7c21baf1.css",
-    "main.js": "/facebook/static/js/main.416e865d.js",
+    "main.css": "/facebook/static/css/main.fcf77fa1.css",
+    "main.js": "/facebook/static/js/main.8c43bd3d.js",
     "static/media/landscape1.jpg": "/facebook/static/media/landscape1.dac3f6bf0ebb3aff25b6.jpg",
     "static/media/landscape3.jpg": "/facebook/static/media/landscape3.2c01f387f0c7329a66e7.jpg",
     "static/media/image1.png": "/facebook/static/media/image1.7752efe9d589a9c18f4f.png",
@@ -23,11 +23,11 @@
     "static/media/Avatar-5.svg": "/facebook/static/media/Avatar-5.a639b136238561cb2f2cfe3f8aa04382.svg",
     "static/media/dots.svg": "/facebook/static/media/dots.6bc422ea6c43a2caec4aa815d7b1b98b.svg",
     "index.html": "/facebook/index.html",
-    "main.7c21baf1.css.map": "/facebook/static/css/main.7c21baf1.css.map",
-    "main.416e865d.js.map": "/facebook/static/js/main.416e865d.js.map"
+    "main.fcf77fa1.css.map": "/facebook/static/css/main.fcf77fa1.css.map",
+    "main.8c43bd3d.js.map": "/facebook/static/js/main.8c43bd3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c21baf1.css",
-    "static/js/main.416e865d.js"
+    "static/css/main.fcf77fa1.css",
+    "static/js/main.8c43bd3d.js"
   ]
 }
